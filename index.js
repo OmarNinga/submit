@@ -33,8 +33,8 @@ const dateFormat = require('dateformat');
 
 
 
-const prefix = ""
-const developers = ""
+const prefix = "+"
+const developers = "583649844015529986"
 
 var guilds = {};
 client.on('message',async message => {
@@ -225,4 +225,4 @@ client.on('message',async message => {
 });
 
 
-client.login('');
+client.login('NzYxMjMyMDQ4NzgxNTI0OTkz.X3Xmlw.OvS7FfaS1j4VxCicgxKoS_MNQL4');
